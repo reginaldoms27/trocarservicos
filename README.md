@@ -4,3 +4,8 @@ Projeto para criar um site que disponibilize serviços que possam ser trocados p
 O objetivo inicial é criar uma solução que troque serviço de tecnologia por outro serviço qualquer como forma de pagamento.
 
 Comecei a fazer serviço para amigos e não quiz cobrar, pensei então que estava fazendo uma doação de serviço. Mas tive a ideia de dá a opção para eles tambem poderem doar serviço, e assim cadastrar oferta de serviços, disponível para quem doar serviços.
+
+
+# O nome do projeto poderá ser modificado para Permuta de Serviço.
+
+## O serviço principal dentro do site deverá ser o Clube de permuta de serviço, que os Associados poderão utilizar. 
